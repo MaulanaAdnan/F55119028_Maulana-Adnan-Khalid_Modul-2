@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
         prepare();
         addItem();
+
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
