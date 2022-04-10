@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
     private void prepare() {
         dataName = getResources().getStringArray(R.array.data_name);
         dataDescription = getResources().getStringArray(R.array.data_description);
