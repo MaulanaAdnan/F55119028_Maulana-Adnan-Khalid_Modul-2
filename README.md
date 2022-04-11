@@ -1,2 +1,2 @@
 # Modul-2
-![HasilTestAplikasi](https://user-images.githubusercontent.com/93413795/162478559-655a8f1d-28e9-48bc-b6fe-710d6302f381.png)
+![Hasil](https://user-images.githubusercontent.com/93413795/162667301-6fffb8b4-2b6e-4b43-8a5b-87954b16a849.png)
